@@ -19,3 +19,6 @@ _checkouts/
 #folders
 books/
 lectures/
+
+#files
+*.code-workspace
