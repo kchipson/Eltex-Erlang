@@ -1,3 +1,16 @@
+#folders
+books/
+lectures/
+
+#files
+*.code-workspace
+
+#
+# Created by https://www.toptal.com/developers/gitignore/api/erlang
+# Edit at https://www.toptal.com/developers/gitignore?templates=erlang
+#
+
+### Erlang ###
 .eunit
 *.o
 *.beam
@@ -16,9 +29,7 @@ deps
 _build/
 _checkouts/
 
-#folders
-books/
-lectures/
+### Erlang Patch ###
+rebar3.crashdump
 
-#files
-*.code-workspace
+# End of https://www.toptal.com/developers/gitignore/api/erlang
