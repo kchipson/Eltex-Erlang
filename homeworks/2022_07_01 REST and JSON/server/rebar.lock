@@ -1,0 +1,8 @@
+[{<<"jiffy">>,
+  {git,"https://github.com/davisp/jiffy",
+       {ref,"9ea1b35b6e60ba21dfd4adbd18e7916a831fd7d4"}},
+  0},
+ {<<"mysql">>,
+  {git,"https://github.com/mysql-otp/mysql-otp",
+       {ref,"6b089f9c273771310d3a491fa33de0c0eddf0a33"}},
+  0}].
